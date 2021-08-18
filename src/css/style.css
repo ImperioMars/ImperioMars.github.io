@@ -1,0 +1,172 @@
+body{
+    font-family: Arial, sans-serif;
+}
+nav{
+    width: 100%;
+    height: 60px;
+    background: #344051;
+}
+
+.logo{
+    color: #fff;
+    font-size: 28px;
+    line-height: 60px;
+    padding-left: 388px;
+    float: left;
+}
+
+.menu{
+    float: left;
+    padding-left: 432px;
+}
+
+.menu li{
+    float: left;
+    line-height: 60px;
+    color: #fff;
+    margin-right: 40px;
+    font-size: 16px;
+    text-transform: uppercase;  
+}
+
+.main{
+    width: 100%;
+    height: calc(100% - 60px);
+    background: url(../img/boy.png) 90% 100%/auto 85% no-repeat  , url(../img/fon1.jpg) center/cover no-repeat;
+}
+
+.title__container{
+    float: left;
+    margin: 432px 0px 0px 404px;
+    color: #2c384a;
+    text-align: center;
+}
+
+.title__container h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.title__container h4{
+    margin-top: 40px;
+    font-size: 22px;
+    color: #79818d;   
+}
+
+.title__container input{
+    height: 40px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 5px;
+    color: #6d7682;
+    font-size: 13px;
+    padding: 09x 16xp;
+    margin: 58px 28px 0px 14px;
+}
+
+.Obo_mne h2{
+    height: 60px;
+    margin-top: 108px;
+    text-align: center;
+    font-size: 40px;
+    color: #263244;
+    text-transform: uppercase; 
+    background: url(../img/line.png) 50% 55px  no-repeat;
+    font-weight: bold
+}
+
+.Obo_mne img{
+  margin-left: 860px;
+    margin-top: 60px;
+}
+
+.Obo_mne p{
+    font-size: 16.667px;
+    line-height: 1;
+    margin-left: 616.014px;
+    margin-right: 616.014px;
+    color: #3f495a;
+    text-align: left;
+    padding-top: 45px;   
+}
+
+.Obo_mne input{
+    height: 34px;
+    text-align: center;
+    border: 2px solid #6f707e;
+    background: url(../img/dwnld.png) 10px no-repeat;
+    border-radius: 5px;
+    color: #6f707e;
+    padding: 8px;
+    font-size: 16.667px;
+    margin-left: 886px;
+    margin-top: 37px;
+}
+
+.Cto_ya_umei{
+    margin-top: 98px;
+    height: 523px; 
+    background: url(../img/fon2.jpg) no-repeat;
+}
+
+.Cto_ya_umei h2{
+    height: 164px;
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+    color: #263244;
+    font-weight: bold;
+    padding-top: 108px;
+    background: url(../img/line.png) center 160px no-repeat;
+}
+
+.Cto_ya_umei img{
+
+  padding: 150px 50px 50px 100px;
+}
+
+.Cto_ya_umei h5{
+    float: left;
+    padding: 20px 0px 10px 100px;
+    line-height: 60px;
+    font-size: 16px;
+    font-weight: bold;
+    
+}
+
+.keisi h2{
+    height: 170px;
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+    color: #263244;
+    font-weight: bold;
+    padding-top: 108px;
+    background: url(../img/line.png) center 160px no-repeat;
+    background-size: 69px 6px;
+}
+
+.keisi>p{
+    margin-top: 37px;
+    text-align: center;
+    color: #3f495a;
+}
+
+.keisi img{
+    margin-top: 39px;
+}
+
+.keisi>h4{
+    font-size: 25px;
+    line-height: 0.833;
+    left: 387.851px;
+    color: #384354;
+    padding-left: 500px;
+}
+
+
+
+
+
+
